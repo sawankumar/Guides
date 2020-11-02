@@ -2,8 +2,8 @@
 
 <hr>
 
-> ## Guides regarding Rclone/Fclone/Gclone/Autorclone and Folderclone.
+> ## Guides regarding Rclone/Fclone/Gclone and Autorclone.
 
-## Thanks :heart:
+#### Thanks :heart:
 
 - [Roshanconnor](https://github.com/roshanconnor123)
