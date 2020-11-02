@@ -1,8 +1,8 @@
-<h1 align="center">🔥 Gclone on Android</h1> 
+<h1 align="center">🔥 Gclone on Linux</h1> 
 
 <hr>
 
-> ## Gclone guide for android.
+> ## Gclone guide for Linux.
 
 ## Installation :-
 
