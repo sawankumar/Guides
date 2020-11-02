@@ -11,7 +11,7 @@
 - Create service accounts.
 - Run the code in Termux.
 ```
-pkg install python && pkg install wget && wget https://raw.githubusercontent.com/sawankumar/Content-Delivery-Network/master/gclone && mv gclone /data/data/com.termux/files/usr/bin/ && chmod 777 /data/data/com.termux/files/usr/bin/gclone && echo gclone version
+pkg install python && pkg install wget && wget https://raw.githubusercontent.com/sawankumar/Content-Delivery-Network/master/gclone && mv gclone /data/data/com.termux/files/usr/bin/ && chmod 777 /data/data/com.termux/files/usr/bin/gclone && gclone version
 ```
 OR
 ```
