@@ -3,7 +3,3 @@
 <hr>
 
 > ## Guides regarding Rclone/Fclone/Gclone and Autorclone.
-
-#### Thanks :heart:
-
-- [Roshanconnor](https://github.com/roshanconnor123)
